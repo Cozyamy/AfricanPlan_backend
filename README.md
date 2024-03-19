@@ -1,5 +1,5 @@
 # AfricanPlan Backend
-# Amarachi Iheakam
+# Thank you African Plan
 Welcome to the AfricanPlan Backend repository! This repository is intended for learning backend development using Python as part of the AfricanPlan BootCamp.
 
 ## About
